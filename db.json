@@ -5,7 +5,21 @@
       "title": "hello"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "categories" = [
+        {
+            "name": "Dentist",
+            "dialogue": "Teething troubles? Schedule a dental checkup",
+            "image": "categ_images/dentist_consult.jpg"
+        },
+        {
+            "name": "Gynecologist/Obstetrician",
+            "dialogue": "Explore women's health, pregnancy, and infertility treatments",
+            "image": "categ_images/diet_consult.jpg"
+        },
+        {
+            "name": "Dietitian/Nutrition",
+            "dialogue": "Get guidance on eating right, weight management, and sports nutrition",
+            "image": "categ_images/preg_consult.jpg"
+        }
+    ]
 }
