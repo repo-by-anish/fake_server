@@ -5,7 +5,7 @@
       "title": "hello"
     }
   ],
-  "categories" = [
+  "categories" : [
         {
             "name": "Dentist",
             "dialogue": "Teething troubles? Schedule a dental checkup",
