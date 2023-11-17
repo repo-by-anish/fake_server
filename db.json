@@ -7,16 +7,16 @@
             "route": "dentists"
         },
         {
-            "name": "Gynecologist/Obstetrician",
-            "dialogue": "Explore women's health, pregnancy, and infertility treatments",
-            "image": "categ_images/diet_consult.jpg",
-            "route": "gynecologist"
-        },
-        {
             "name": "Dietitian/Nutrition",
             "dialogue": "Get guidance on eating right, weight management, and sports nutrition",
             "image": "categ_images/preg_consult.jpg",
             "route": "dietitian"
+        },
+        {
+            "name": "Gynecologist/Obstetrician",
+            "dialogue": "Explore women's health, pregnancy, and infertility treatments",
+            "image": "categ_images/diet_consult.jpg",
+            "route": "gynecologist"
         }
     ]
 }
