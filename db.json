@@ -1,5 +1,5 @@
 {
-  "categories" : [
+    "categories": [
         {
             "name": "Dentist",
             "dialogue": "Teething troubles? Schedule a dental checkup",
@@ -19,56 +19,56 @@
             "route": "gynecologist"
         }
     ],
-  "dentists": [
-  {
-    "name": "Dr. Ujjval Mehrotra",
-    "yoe": 10,
-    "address": "Dalanwala, Dehradun",
-    "clinic_name": "Face Mile Dentofacial Clinic",
-    "fee": 200,
-    "image": "dentists/dr1_101.jpg",
-    "total_stories": 17,
-    "positive_stories": 17
-  },
-  {
-    "name": "Dr. Sneha Sharma",
-    "yoe": 8,
-    "address": "Rajpur Road, Dehradun",
-    "clinic_name": "SmileCraft Dental Studio",
-    "fee": 180,
-    "image": "dentists/dr1_102.jpg",
-    "total_stories": 25,
-    "positive_stories": 24
-  },
-  {
-    "name": "Dr. Rajeev Kapoor",
-    "yoe": 12,
-    "address": "Clement Town, Dehradun",
-    "clinic_name": "Healthy Teeth Clinic",
-    "fee": 220,
-    "image": "dentists/dr1_103.jpg",
-    "total_stories": 15,
-    "positive_stories": 15
-  },
-  {
-    "name": "Dr. Pooja Verma",
-    "yoe": 6,
-    "address": "Ballupur, Dehradun",
-    "clinic_name": "Perfect Smiles Dentistry",
-    "fee": 190,
-    "image": "dentists/dr1_104.jpg",
-    "total_stories": 20,
-    "positive_stories": 19
-  },
-  {
-    "name": "Dr. Ankit Singh",
-    "yoe": 9,
-    "address": "Rajiv Nagar, Dehradun",
-    "clinic_name": "Dental Harmony Clinic",
-    "fee": 210,
-    "image": "dentists/dr1_105.jpg",
-    "total_stories": 18,
-    "positive_stories": 17
-  }
-]
+    "dentists": [
+        {
+            "name": "Dr. Ujjval Mehrotra",
+            "yoe": 10,
+            "address": "Dalanwala, Dehradun",
+            "clinic_name": "Face Mile Dentofacial Clinic",
+            "fee": 200,
+            "image": "dentists/dr1_101.jpg",
+            "total_stories": 17,
+            "positive_stories": 17
+        },
+        {
+            "name": "Dr. Sneha Sharma",
+            "yoe": 8,
+            "address": "Rajpur Road, Dehradun",
+            "clinic_name": "SmileCraft Dental Studio",
+            "fee": 180,
+            "image": "dentists/dr1_102.jpg",
+            "total_stories": 25,
+            "positive_stories": 24
+        },
+        {
+            "name": "Dr. Rajeev Kapoor",
+            "yoe": 12,
+            "address": "Clement Town, Dehradun",
+            "clinic_name": "Healthy Teeth Clinic",
+            "fee": 220,
+            "image": "dentists/dr1_103.jpg",
+            "total_stories": 15,
+            "positive_stories": 15
+        },
+        {
+            "name": "Dr. Pooja Verma",
+            "yoe": 6,
+            "address": "Ballupur, Dehradun",
+            "clinic_name": "Perfect Smiles Dentistry",
+            "fee": 190,
+            "image": "dentists/dr1_104.jpg",
+            "total_stories": 20,
+            "positive_stories": 19
+        },
+        {
+            "name": "Dr. Ankit Singh",
+            "yoe": 9,
+            "address": "Rajiv Nagar, Dehradun",
+            "clinic_name": "Dental Harmony Clinic",
+            "fee": 210,
+            "image": "dentists/dr1_105.jpg",
+            "total_stories": 18,
+            "positive_stories": 17
+        }
+    ]
 }
