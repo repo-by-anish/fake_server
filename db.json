@@ -1,18 +1,21 @@
 {
     "categories": [
         {
+            "id":"c001",
             "name": "Dentist",
             "dialogue": "Teething troubles? Schedule a dental checkup",
             "image": "categ_images/dentist_consult.jpg",
             "route": "dentists"
         },
         {
+            "id":"c002",
             "name": "Dietitian/Nutrition",
             "dialogue": "Get guidance on eating right, weight management, and sports nutrition",
             "image": "categ_images/preg_consult.jpg",
             "route": "dietitian"
         },
         {
+            "id":"c003",
             "name": "Gynecologist/Obstetrician",
             "dialogue": "Explore women's health, pregnancy, and infertility treatments",
             "image": "categ_images/diet_consult.jpg",
@@ -21,6 +24,7 @@
     ],
     "dentists": [
         {
+            "id": "d001",
             "name": "Dr. Ujjval Mehrotra",
             "yoe": 10,
             "address": "Dalanwala, Dehradun",
@@ -31,6 +35,7 @@
             "positive_stories": 17
         },
         {
+            "id": "d002",
             "name": "Dr. Sneha Sharma",
             "yoe": 8,
             "address": "Rajpur Road, Dehradun",
@@ -41,6 +46,7 @@
             "positive_stories": 24
         },
         {
+            "id": "d003",
             "name": "Dr. Mehak Aggarwal",
             "yoe": 12,
             "address": "Clement Town, Dehradun",
@@ -51,6 +57,7 @@
             "positive_stories": 15
         },
         {
+            "id": "d004",
             "name": "Dr. Pooja Verma",
             "yoe": 6,
             "address": "Ballupur, Dehradun",
@@ -61,6 +68,7 @@
             "positive_stories": 19
         },
         {
+            "id": "d005",
             "name": "Dr. Ankit Singh",
             "yoe": 9,
             "address": "Rajiv Nagar, Dehradun",
