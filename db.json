@@ -12,14 +12,14 @@
             "name": "Dietitian/Nutrition",
             "dialogue": "Get guidance on eating right, weight management, and sports nutrition",
             "image": "categ_images/preg_consult.jpg",
-            "route": "dietitian"
+            "route": "dietitians"
         },
         {
             "id": "c003",
             "name": "Gynecologist/Obstetrician",
             "dialogue": "Explore women's health, pregnancy, and infertility treatments",
             "image": "categ_images/diet_consult.jpg",
-            "route": "gynecologist"
+            "route": "gynecologists"
         }
     ],
     "dentists": [
