@@ -1,21 +1,21 @@
 {
     "categories": [
         {
-            "id":"c001",
+            "id": "c001",
             "name": "Dentist",
             "dialogue": "Teething troubles? Schedule a dental checkup",
             "image": "categ_images/dentist_consult.jpg",
             "route": "dentists"
         },
         {
-            "id":"c002",
+            "id": "c002",
             "name": "Dietitian/Nutrition",
             "dialogue": "Get guidance on eating right, weight management, and sports nutrition",
             "image": "categ_images/preg_consult.jpg",
             "route": "dietitian"
         },
         {
-            "id":"c003",
+            "id": "c003",
             "name": "Gynecologist/Obstetrician",
             "dialogue": "Explore women's health, pregnancy, and infertility treatments",
             "image": "categ_images/diet_consult.jpg",
@@ -77,6 +77,120 @@
             "image": "dentists/dr1_105.jpg",
             "total_stories": 18,
             "positive_stories": 17
+        }
+    ],
+    "gynecologists": [
+        {
+            "id": "g001",
+            "name": "Dr. Nisha Gupta",
+            "yoe": 15,
+            "address": "Medical Enclave, Dehradun",
+            "clinic_name": "Women's Wellness Clinic",
+            "fee": 250,
+            "image": "gynecologists/dr2_101.jpg",
+            "total_stories": 30,
+            "positive_stories": 28
+        },
+        {
+            "id": "g002",
+            "name": "Dr. Ritu Sharma",
+            "yoe": 12,
+            "address": "Clock Tower, Dehradun",
+            "clinic_name": "Maternity Care Center",
+            "fee": 220,
+            "image": "gynecologists/dr2_102.jpg",
+            "total_stories": 22,
+            "positive_stories": 21
+        },
+        {
+            "id": "g003",
+            "name": "Dr. Priya Verma",
+            "yoe": 18,
+            "address": "Turner Road, Dehradun",
+            "clinic_name": "New Life Women's Clinic",
+            "fee": 270,
+            "image": "gynecologists/dr2_103.jpg",
+            "total_stories": 35,
+            "positive_stories": 33
+        },
+        {
+            "id": "g004",
+            "name": "Dr. Swati Singh",
+            "yoe": 10,
+            "address": "Saharanpur Road, Dehradun",
+            "clinic_name": "Motherhood Wellness Center",
+            "fee": 200,
+            "image": "gynecologists/dr2_104.jpg",
+            "total_stories": 25,
+            "positive_stories": 24
+        },
+        {
+            "id": "g005",
+            "name": "Dr. Meera Kapoor",
+            "yoe": 14,
+            "address": "Vasant Vihar, Dehradun",
+            "clinic_name": "Care & Cure Women's Clinic",
+            "fee": 230,
+            "image": "gynecologists/dr2_105.jpg",
+            "total_stories": 28,
+            "positive_stories": 27
+        }
+    ],
+    "dietitians": [
+        {
+            "id": "dt001",
+            "name": "Dr. Anjali Sharma",
+            "yoe": 8,
+            "address": "Rajpur Road, Dehradun",
+            "clinic_name": "NutriWell Diet Clinic",
+            "fee": 180,
+            "image": "dietitians/dr3_101.jpg",
+            "total_stories": 20,
+            "positive_stories": 19
+        },
+        {
+            "id": "dt002",
+            "name": "Dr. Karishma Singh",
+            "yoe": 10,
+            "address": "Clement Town, Dehradun",
+            "clinic_name": "HealthFit Nutrition Center",
+            "fee": 200,
+            "image": "dietitians/dr3_102.jpg",
+            "total_stories": 18,
+            "positive_stories": 17
+        },
+        {
+            "id": "dt003",
+            "name": "Dr. Rahul Verma",
+            "yoe": 12,
+            "address": "Ballupur, Dehradun",
+            "clinic_name": "SlimCare Diet Solutions",
+            "fee": 220,
+            "image": "dietitians/dr3_103.jpg",
+            "total_stories": 25,
+            "positive_stories": 23
+        },
+        {
+            "id": "dt004",
+            "name": "Dr. Preeti Kapoor",
+            "yoe": 6,
+            "address": "Clock Tower, Dehradun",
+            "clinic_name": "VitalHealth Diet Clinic",
+            "fee": 160,
+            "image": "dietitians/dr3_104.jpg",
+            "total_stories": 15,
+            "positive_stories": 14
+        },
+        {
+            "id": "dt005",
+            "name": "Dr. Sameer Gupta",
+            "yoe": 9,
+            "address": "Vasant Vihar, Dehradun",
+            "clinic_name": "NutriCare Wellness Center",
+            "fee": 190,
+            "image": "dietitians/dr3_105.jpg",
+            "total_stories": 22,
+            "positive_stories": 21
         }
     ]
 }
