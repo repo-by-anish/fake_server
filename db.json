@@ -87,7 +87,7 @@
             "address": "Medical Enclave, Dehradun",
             "clinic_name": "Women's Wellness Clinic",
             "fee": 250,
-            "image": "gynecologists/dr2_101.jpg",
+            "image": "demo-img/dr-1f.png",
             "total_stories": 30,
             "positive_stories": 28
         },
@@ -98,7 +98,7 @@
             "address": "Clock Tower, Dehradun",
             "clinic_name": "Maternity Care Center",
             "fee": 220,
-            "image": "gynecologists/dr2_102.jpg",
+            "image": "demo-img/dr-1f.png",
             "total_stories": 22,
             "positive_stories": 21
         },
@@ -109,7 +109,7 @@
             "address": "Turner Road, Dehradun",
             "clinic_name": "New Life Women's Clinic",
             "fee": 270,
-            "image": "gynecologists/dr2_103.jpg",
+            "image": "demo-img/dr-1f.png",
             "total_stories": 35,
             "positive_stories": 33
         },
@@ -120,7 +120,7 @@
             "address": "Saharanpur Road, Dehradun",
             "clinic_name": "Motherhood Wellness Center",
             "fee": 200,
-            "image": "gynecologists/dr2_104.jpg",
+            "image": "demo-img/dr-1f.png",
             "total_stories": 25,
             "positive_stories": 24
         },
@@ -131,7 +131,7 @@
             "address": "Vasant Vihar, Dehradun",
             "clinic_name": "Care & Cure Women's Clinic",
             "fee": 230,
-            "image": "gynecologists/dr2_105.jpg",
+            "image": "demo-img/dr-1f.png",
             "total_stories": 28,
             "positive_stories": 27
         }
@@ -144,7 +144,7 @@
             "address": "Rajpur Road, Dehradun",
             "clinic_name": "NutriWell Diet Clinic",
             "fee": 180,
-            "image": "dietitians/dr3_101.jpg",
+            "image": "demo-img/dr-1f.png",
             "total_stories": 20,
             "positive_stories": 19
         },
@@ -155,7 +155,7 @@
             "address": "Clement Town, Dehradun",
             "clinic_name": "HealthFit Nutrition Center",
             "fee": 200,
-            "image": "dietitians/dr3_102.jpg",
+            "image": "demo-img/dr-1f.png",
             "total_stories": 18,
             "positive_stories": 17
         },
@@ -166,7 +166,7 @@
             "address": "Ballupur, Dehradun",
             "clinic_name": "SlimCare Diet Solutions",
             "fee": 220,
-            "image": "dietitians/dr3_103.jpg",
+            "image": "demo-img/dr-1m.jpg",
             "total_stories": 25,
             "positive_stories": 23
         },
@@ -177,7 +177,7 @@
             "address": "Clock Tower, Dehradun",
             "clinic_name": "VitalHealth Diet Clinic",
             "fee": 160,
-            "image": "dietitians/dr3_104.jpg",
+            "image": "demo-img/dr-1f.png",
             "total_stories": 15,
             "positive_stories": 14
         },
@@ -188,7 +188,7 @@
             "address": "Vasant Vihar, Dehradun",
             "clinic_name": "NutriCare Wellness Center",
             "fee": 190,
-            "image": "dietitians/dr3_105.jpg",
+            "image": "demo-img/dr-1f.png",
             "total_stories": 22,
             "positive_stories": 21
         }
